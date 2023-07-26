@@ -1,11 +1,13 @@
 import React, { useEffect, useState } from "react";
 import { Device } from "./types/device";
-import DeviceComponent from "./components/Device";
+import DeviceTableComponent from "./components/DeviceTable";
 import './App.css';
+import SelectClientComponent from "./components/SelectClient";
 
 const App = () => {
   const [backendData, setBackendData] = useState<Device[]>([]);
-  const [clientId, setClientId] = useState<'zoom' | 'flash'>('flash');
+  const [clientId, setClientId] = useState<string>('flash');
+  const clients = ['flash', 'zoom'];
 
   useEffect(() => {
     fetch(`/devices/${clientId}`)
@@ -13,31 +15,13 @@ const App = () => {
       .then((data) => setBackendData(data));
   }, [clientId]);
 
-  const handleSelectChange = (event: React.FormEvent) => {
-    const value = (event.target as any).value;
-    setClientId(value);
-  };
+
 
   return (
-    <section>
-      <select id="client" onChange={handleSelectChange}>
-        <option value="flash">Flash</option>
-        <option value="zoom">Zoom</option>
-      </select>
-      <table id="devices">
-        <tr>
-          <th>Serial Number</th>
-          <th>Security Status</th>
-        </tr>
-        {backendData ? (
-          backendData.map((device: Device, i: number) => (
-            <DeviceComponent key={i} device={device}></DeviceComponent>
-          ))
-        ) : (
-          <p>Loading...</p>
-        )}
-      </table>
-    </section>
+    <>
+      <SelectClientComponent clients={clients} onChange={(client: string) => setClientId(client)} />
+      <DeviceTableComponent devices={backendData} />
+    </>
   );
 };
 
