@@ -12,7 +12,7 @@
       "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
       "security": {
         "firewall": true,
-        "antivirus": false,
+        "antivirus": true,
         "encryption": true
       },
       "user": "john.doe@gmail.com",
@@ -34,7 +34,7 @@
         "encryption": false
       },
       "user": "john.doe@gmail.com",
-      "lastCheckInDate": 1686669089
+      "lastCheckInDate": 1690404485
     },
     {
       "id": "2456",
