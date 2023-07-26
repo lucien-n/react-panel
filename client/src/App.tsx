@@ -5,9 +5,10 @@ import './App.css';
 import SelectClientComponent from "./components/SelectClient";
 
 const App = () => {
-  const [backendData, setBackendData] = useState<Device[]>([]);
-  const [clientId, setClientId] = useState<string>('flash');
   const clients = ['flash', 'zoom'];
+
+  const [backendData, setBackendData] = useState<Device[]>([]);
+  const [clientId, setClientId] = useState<string>(clients[0]);
 
   useEffect(() => {
     fetch(`/devices/${clientId}`)
