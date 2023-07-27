@@ -1,61 +1,7 @@
-:root {
-    --background: #2c2c2c;
-    --background-lighter: #3c3c3c;
-    --primary: #fff;
-}
-
-body {
-    background-color: var(--background);
-}
-
-table#devices {
-  width: 100%;
-  height: 100%;
-  border-collapse: separate;
-  border-spacing: 0;
-}
-
-table tr {
-    margin: 0;
-    padding: 0;
-    background: var(--background);
-}
-
-table tr:nth-child(2n+3) {
-    background: var(--background-lighter);
-}
-
-
-table tr:hover {
-    background-color: rgba(0, 0, 0, .2);
-}
-
-table th {
-    background: #1c1c1c;
-    color: var(--primary);
-}
-
-table td {
-    font-size: larger;
+main {
+    width: 100%;
     height: 100%;
-    border: 1px solid #000;
-}
-
-table td span {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-table td, th {
-    padding: 8px;
-}
-
-select#client {
-    width: 100%;
-    padding: .5em;
-    font-size: larger;
-    background-color:  var(--background);
-    color: var(--primary);
-    border: none;
 }

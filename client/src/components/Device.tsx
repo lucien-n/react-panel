@@ -3,9 +3,6 @@ import { Device } from "../types/device";
 import { Icon } from '@iconify/react';
 
 const DeviceComponent = ({ device }: { device: Device; }) => {
-
-    console.log(new Date().getTime() / 1000);
-
     return <tr>
         <td>
             {device.serialNumber}

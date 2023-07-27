@@ -1,3 +1,5 @@
+import "./SelectClient.css";
+
 const SelectClientComponent = ({ clients, onChange }: { clients: string[], onChange: any; }) => {
     const handleSelectChange = (event: React.FormEvent) => {
         const value = (event.target as any).value;
