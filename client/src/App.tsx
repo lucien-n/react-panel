@@ -1,11 +1,12 @@
 import React from 'react';
 import './App.css';
-import Button from '@mui/material/Button';
+import { Container } from '@mui/material';
+import Panel from './components/Panel';
 
 function App() {
-  return (
-    <Button variant="contained">Hello World</Button>
-  );
+  return <Container sx={{ height: '100vh' }}>
+    <Panel></Panel>
+  </Container>;
 }
 
 export default App;
