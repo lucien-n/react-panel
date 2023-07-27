@@ -4,21 +4,23 @@ import database from "./database.json";
 const app: express.Application = express();
 
 const port: number = 5_000;
+const devicePerPage: number = 10;
 
-app.get("/devices/:id", (req, res) => {
+app.get("/devices/:id/:page?", (req, res) => {
   const clientId = req.params.id;
+
+  const page = parseInt(req.params.page ?? "0") || 0;
 
   const devices = database.devices
     .slice()
     .filter((device) => device.clientId == clientId);
 
-  res.json(devices);
-});
+  const totalDevices = devices.length;
 
-app.get("/devices", (req, res) => {
-  const devices = database.devices;
+  const pageFactor = page * devicePerPage;
+  const pagedDevices = devices.slice(pageFactor, devicePerPage + pageFactor);
 
-  res.json(devices);
+  res.json({ devices: pagedDevices, total: totalDevices });
 });
 
 app.get("/clients", (req, res) => {
