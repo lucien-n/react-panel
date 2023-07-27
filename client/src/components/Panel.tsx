@@ -6,6 +6,7 @@ import SelectClientComponent from "./SelectClient";
 
 import './Panel.css';
 import SelectPageComponent from "./SelectPage";
+import FiltersComponent from "./Filters";
 
 const PanelComponent = () => {
     const clients = ['flash', 'zoom'];
@@ -39,6 +40,7 @@ const PanelComponent = () => {
                 {devices ? <p>{devices.length} device(s) on page</p> : <p>Please select a client</p>}
                 {totalDevices ? <p>{totalDevices} device(s) total</p> : <p>Please select a client</p>}
                 <p>{percentageOfHealthyDevices}% of devices are healthy</p>
+                <FiltersComponent></FiltersComponent>
             </section>
             <table id="panel-devices" className="content-table">
                 <thead>

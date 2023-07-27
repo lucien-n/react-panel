@@ -22,3 +22,9 @@ export const isDeviceSilent = (device: Device): boolean => {
 export const isDeviceSecured = (device: Device): boolean => {
   return Object.values(device.security).every((security) => security === true);
 };
+
+export const camelToTitleCase = (text: string): string => {
+  const result = text.replace(/([A-Z])/g, " $1");
+  const finalResult = result.charAt(0).toUpperCase() + result.slice(1);
+  return finalResult;
+};
