@@ -15,11 +15,14 @@
 
 
 .sidebar {
+    display: flex;
+    flex-direction: column;
     padding: 15px 20px;
     background-color: var(--primary);
     border-radius: 5px;
     color: var(--secondary);
     height: fit-content;
+    gap: 1em;
 }
 
 .content-table {
