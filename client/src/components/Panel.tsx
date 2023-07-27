@@ -2,7 +2,7 @@ import { useState } from "react";
 import SelectClient from "./SelectClient";
 import Devices from "./Devices";
 import Info from "./Info";
-import { TDevice } from "./device";
+import { TDevice } from "../types/device";
 import SelectPage from "./SelectPage";
 
 const Panel = () => {

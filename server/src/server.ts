@@ -5,6 +5,11 @@ const app: express.Application = express();
 
 const port: number = 5_000;
 const devicePerPage: number = 10;
+const simulatedTimeout: number = 10;
+
+app.use(function (req, res, next) {
+  setTimeout(next, simulatedTimeout);
+});
 
 app.get("/devices/:id/:page?", (req, res) => {
   const clientId = req.params.id;

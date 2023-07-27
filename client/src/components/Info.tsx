@@ -1,5 +1,5 @@
 import { Typography } from "@mui/material";
-import { TDevice } from "./device";
+import { TDevice } from "../types/device";
 
 const Info = ({
   devices,

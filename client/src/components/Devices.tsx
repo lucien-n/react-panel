@@ -8,7 +8,8 @@ import {
   Paper,
 } from "@mui/material";
 import { useEffect } from "react";
-import { TDevice } from "./device";
+import { TDevice } from "../types/device";
+import DeviceSecurity from "./DeviceSecurity";
 
 const Devices = ({
   clientId,
@@ -67,7 +68,7 @@ const Devices = ({
                   sx={{ "&:last-chield td, &:last-child th": { border: 0 } }}
                 >
                   <TableCell>{device.serialNumber}</TableCell>
-                  <TableCell>Sec</TableCell>
+                  <DeviceSecurity device={device}></DeviceSecurity>
                 </TableRow>
               ))
             ) : (
