@@ -1,7 +1,7 @@
 import { MenuItem, Select } from "@mui/material";
 import { useEffect, useState } from "react";
 
-const SelectClient = ({ clientId, setClientId }: { clientId: any, setClientId: any; }) => {
+const SelectClient = ({ setClientId }: { setClientId: any; }) => {
     const [clients, setClients] = useState<string[]>([]);
 
     useEffect(() => {
