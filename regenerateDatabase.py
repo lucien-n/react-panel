@@ -19,14 +19,14 @@ with open("./server/src/database.json", "r+") as f:
         device["model"] = deviceModel
 
         deviceSecurity = {
-            "firewall": bool(random.randint(0, 1)),
-            "antivirus": bool(random.randint(0, 1)),
-            "encryption": bool(random.randint(0, 1)),
+            "firewall": bool(random.randint(0, 4)),
+            "antivirus": bool(random.randint(0, 4)),
+            "encryption": bool(random.randint(0, 4)),
         }
         device["security"] = deviceSecurity
 
         deviceLastCheckInDate = math.floor(time.time()) - random.randint(
-            10 * 24 * 3600, 90 * 24 * 3600
+            10 * 24 * 3600, 32 * 24 * 3600
         )
         device["lastCheckInDate"] = deviceLastCheckInDate
 

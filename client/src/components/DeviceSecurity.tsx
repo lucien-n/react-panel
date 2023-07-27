@@ -4,7 +4,9 @@ import { Icon } from "@iconify/react";
 
 const DeviceSecurity = ({ device }: { device: TDevice }) => {
   const isSilent = (): boolean => {
-    return new Date().getTime() - device.lastCheckInDate > 30 * 24 * 60 * 60;
+    return (
+      new Date().getTime() / 1000 - device.lastCheckInDate > 30 * 24 * 60 * 60
+    );
   };
 
   const isHealthy = (): boolean => {
