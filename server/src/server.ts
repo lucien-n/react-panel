@@ -2,7 +2,7 @@ import express from "express";
 
 const app: express.Application = express();
 
-const port: number = 3000;
+const port: number = 5_000;
 
 app.get("/devices/:id", (req, res) => {
   res.json("Hello");
