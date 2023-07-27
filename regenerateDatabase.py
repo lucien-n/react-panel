@@ -1,5 +1,7 @@
 import json
 import random
+import time
+import math
 
 chars = "ABCDEFGHIJKLMNOPQRSTUVXYZ1234567890"
 
@@ -22,6 +24,11 @@ with open("./server/src/database.json", "r+") as f:
             "encryption": bool(random.randint(0, 1)),
         }
         device["security"] = deviceSecurity
+
+        deviceLastCheckInDate = math.floor(time.time()) - random.randint(
+            10 * 24 * 3600, 90 * 24 * 3600
+        )
+        device["lastCheckInDate"] = deviceLastCheckInDate
 
     f.seek(0)
     json.dump(data, f, indent=4)

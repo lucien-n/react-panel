@@ -1,11 +1,11 @@
 {
     "devices": [
         {
-            "id": 1304,
+            "id": 6421,
             "clientId": "flash",
             "manufacturer": "LENOVO",
-            "model": "DDHO",
-            "serialNumber": "6DZTRBR6JCNQ",
+            "model": "TE50",
+            "serialNumber": "7SNE5HOU1FDF",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
@@ -16,32 +16,68 @@
                 "encryption": false
             },
             "user": "lberzins0@utexas.edu",
-            "lastCheckInDate": "09/24/2016"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 3177,
+            "id": 2764,
             "clientId": "flash",
             "manufacturer": "LENOVO",
-            "model": "B9LS",
-            "serialNumber": "BE0PYCYTUC57",
+            "model": "LMT0",
+            "serialNumber": "BE8FJSHUND5A",
+            "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
+            "ram": 16,
+            "storage": 512,
+            "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "user": "gdawber1@blogspot.com",
+            "lastCheckInDate": 1690498246
+        },
+        {
+            "id": 5166,
+            "clientId": "flash",
+            "manufacturer": "LENOVO",
+            "model": "255A",
+            "serialNumber": "VBIO6EGS7ZDG",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
                 "firewall": false,
-                "antivirus": true,
+                "antivirus": false,
                 "encryption": false
             },
-            "user": "gdawber1@blogspot.com",
-            "lastCheckInDate": "01/26/1978"
+            "user": "nhastie2@rambler.ru",
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 6617,
+            "id": 3924,
             "clientId": "flash",
             "manufacturer": "LENOVO",
-            "model": "3M4N",
-            "serialNumber": "G9E782L6FMPD",
+            "model": "KVEV",
+            "serialNumber": "TUF9BEXNIKNQ",
+            "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
+            "ram": 16,
+            "storage": 512,
+            "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
+            "security": {
+                "firewall": false,
+                "antivirus": false,
+                "encryption": false
+            },
+            "user": "seisikowitch3@godaddy.com",
+            "lastCheckInDate": 1690498246
+        },
+        {
+            "id": 2709,
+            "clientId": "flash",
+            "manufacturer": "LENOVO",
+            "model": "O18L",
+            "serialNumber": "NGA6SSR5D39D",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
@@ -51,51 +87,15 @@
                 "antivirus": false,
                 "encryption": false
             },
-            "user": "nhastie2@rambler.ru",
-            "lastCheckInDate": "07/30/1994"
-        },
-        {
-            "id": 7187,
-            "clientId": "flash",
-            "manufacturer": "LENOVO",
-            "model": "IAV8",
-            "serialNumber": "9XJ5DXSVSSPC",
-            "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-            "ram": 16,
-            "storage": 512,
-            "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-            "security": {
-                "firewall": false,
-                "antivirus": false,
-                "encryption": true
-            },
-            "user": "seisikowitch3@godaddy.com",
-            "lastCheckInDate": "05/03/2015"
-        },
-        {
-            "id": 2022,
-            "clientId": "flash",
-            "manufacturer": "LENOVO",
-            "model": "F6DI",
-            "serialNumber": "DDA5I3PT78JK",
-            "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-            "ram": 16,
-            "storage": 512,
-            "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-            "security": {
-                "firewall": false,
-                "antivirus": true,
-                "encryption": true
-            },
             "user": "gmcgawn4@goodreads.com",
-            "lastCheckInDate": "10/11/2019"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 3295,
+            "id": 1634,
             "clientId": "flash",
             "manufacturer": "LENOVO",
-            "model": "11ZS",
-            "serialNumber": "VYQJJYYNUOBZ",
+            "model": "5MR5",
+            "serialNumber": "QN7IET8R818R",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
@@ -106,14 +106,14 @@
                 "encryption": false
             },
             "user": "kcollelton5@etsy.com",
-            "lastCheckInDate": "05/27/2007"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 3681,
+            "id": 1664,
             "clientId": "flash",
             "manufacturer": "LENOVO",
-            "model": "ZNAY",
-            "serialNumber": "7NHB1CI3VVQ1",
+            "model": "YJBH",
+            "serialNumber": "KGZOEYV7XA7Q",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
@@ -121,35 +121,35 @@
             "security": {
                 "firewall": true,
                 "antivirus": true,
-                "encryption": true
+                "encryption": false
             },
             "user": "ajendrassik6@w3.org",
-            "lastCheckInDate": "11/12/2004"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 7676,
+            "id": 5351,
             "clientId": "flash",
             "manufacturer": "LENOVO",
-            "model": "JCQ4",
-            "serialNumber": "QDT6NMA04TXB",
+            "model": "F15G",
+            "serialNumber": "QC3FZY1R6S7B",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
                 "firewall": true,
-                "antivirus": false,
-                "encryption": false
+                "antivirus": true,
+                "encryption": true
             },
             "user": "pdagg7@buzzfeed.com",
-            "lastCheckInDate": "06/08/1972"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 9387,
+            "id": 5002,
             "clientId": "flash",
             "manufacturer": "LENOVO",
-            "model": "VDLF",
-            "serialNumber": "KKBDA0MNQIDX",
+            "model": "8580",
+            "serialNumber": "MIHXH73JNSMU",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
@@ -157,17 +157,17 @@
             "security": {
                 "firewall": false,
                 "antivirus": true,
-                "encryption": false
+                "encryption": true
             },
             "user": "deccleshall8@google.es",
-            "lastCheckInDate": "01/18/2006"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 9769,
+            "id": 3840,
             "clientId": "flash",
             "manufacturer": "LENOVO",
-            "model": "C3V5",
-            "serialNumber": "OEHTSSSQ8YLT",
+            "model": "ECXI",
+            "serialNumber": "HQMPEH4A6Y41",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
@@ -175,107 +175,143 @@
             "security": {
                 "firewall": false,
                 "antivirus": false,
-                "encryption": true
+                "encryption": false
             },
             "user": "bworthy9@people.com.cn",
-            "lastCheckInDate": "06/15/1985"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 6509,
+            "id": 6397,
             "clientId": "flash",
             "manufacturer": "LENOVO",
-            "model": "CL16",
-            "serialNumber": "226Y2J0Y3AAE",
+            "model": "SPLF",
+            "serialNumber": "5E70I4J4XUIU",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
-                "firewall": true,
-                "antivirus": false,
+                "firewall": false,
+                "antivirus": true,
                 "encryption": false
             },
             "user": "etabrama@thetimes.co.uk",
-            "lastCheckInDate": "08/08/1976"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 9744,
+            "id": 4449,
             "clientId": "flash",
             "manufacturer": "LENOVO",
-            "model": "2ZF6",
-            "serialNumber": "NSBU97J55ATD",
+            "model": "R99Z",
+            "serialNumber": "C106HAF0NAE6",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
                 "firewall": true,
-                "antivirus": false,
-                "encryption": true
+                "antivirus": true,
+                "encryption": false
             },
             "user": "cwoodroffeb@wordpress.org",
-            "lastCheckInDate": "06/16/1979"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 3549,
+            "id": 2266,
             "clientId": "flash",
             "manufacturer": "LENOVO",
-            "model": "1HLG",
-            "serialNumber": "ZMNMLXUY1XTV",
+            "model": "TJ15",
+            "serialNumber": "L3QIN7DZ4F9R",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
-                "firewall": true,
+                "firewall": false,
                 "antivirus": false,
                 "encryption": true
             },
             "user": "fobyrnec@narod.ru",
-            "lastCheckInDate": "04/14/1994"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 6810,
+            "id": 7931,
             "clientId": "flash",
             "manufacturer": "LENOVO",
-            "model": "FZ6O",
-            "serialNumber": "CBL737N259NN",
+            "model": "MOKR",
+            "serialNumber": "XGBYVBJMYUDZ",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
-                "firewall": true,
+                "firewall": false,
                 "antivirus": true,
-                "encryption": true
+                "encryption": false
             },
             "user": "ethridgouldd@lulu.com",
-            "lastCheckInDate": "10/26/1979"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 5298,
+            "id": 8005,
             "clientId": "flash",
             "manufacturer": "LENOVO",
-            "model": "E3T7",
-            "serialNumber": "BGO02HQOCLIA",
+            "model": "DTZ6",
+            "serialNumber": "HOEOXOSOHV2V",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
-                "firewall": false,
-                "antivirus": true,
-                "encryption": false
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
             },
             "user": "smckiee@cmu.edu",
-            "lastCheckInDate": "07/14/1971"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 9311,
+            "id": 5338,
             "clientId": "flash",
             "manufacturer": "LENOVO",
-            "model": "I7IV",
-            "serialNumber": "GH97LC25XVMG",
+            "model": "JHH5",
+            "serialNumber": "0YFL5T9Z3KZ8",
+            "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
+            "ram": 16,
+            "storage": 512,
+            "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "user": "wrabbf@arstechnica.com",
+            "lastCheckInDate": 1690498246
+        },
+        {
+            "id": 4593,
+            "clientId": "flash",
+            "manufacturer": "LENOVO",
+            "model": "0FTP",
+            "serialNumber": "OP78443PVCNF",
+            "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
+            "ram": 16,
+            "storage": 512,
+            "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "user": "jgaltoneg@ameblo.jp",
+            "lastCheckInDate": 1690498246
+        },
+        {
+            "id": 5213,
+            "clientId": "flash",
+            "manufacturer": "LENOVO",
+            "model": "ML5P",
+            "serialNumber": "V6RLU1V8ZTHF",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
@@ -283,71 +319,17 @@
             "security": {
                 "firewall": true,
                 "antivirus": true,
-                "encryption": false
-            },
-            "user": "wrabbf@arstechnica.com",
-            "lastCheckInDate": "05/14/1987"
-        },
-        {
-            "id": 3275,
-            "clientId": "flash",
-            "manufacturer": "LENOVO",
-            "model": "KN6J",
-            "serialNumber": "IKO36JGPDHBB",
-            "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-            "ram": 16,
-            "storage": 512,
-            "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-            "security": {
-                "firewall": false,
-                "antivirus": false,
-                "encryption": false
-            },
-            "user": "jgaltoneg@ameblo.jp",
-            "lastCheckInDate": "02/14/1989"
-        },
-        {
-            "id": 1068,
-            "clientId": "flash",
-            "manufacturer": "LENOVO",
-            "model": "45N1",
-            "serialNumber": "MK9L59OEGFGE",
-            "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-            "ram": 16,
-            "storage": 512,
-            "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-            "security": {
-                "firewall": false,
-                "antivirus": false,
                 "encryption": true
             },
             "user": "mlernerh@dot.gov",
-            "lastCheckInDate": "02/23/1996"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 3382,
+            "id": 8854,
             "clientId": "flash",
             "manufacturer": "LENOVO",
-            "model": "D4S4",
-            "serialNumber": "07V0VU9NDA0C",
-            "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-            "ram": 16,
-            "storage": 512,
-            "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-            "security": {
-                "firewall": true,
-                "antivirus": true,
-                "encryption": true
-            },
-            "user": "hheadricki@bbb.org",
-            "lastCheckInDate": "05/19/2021"
-        },
-        {
-            "id": 7765,
-            "clientId": "flash",
-            "manufacturer": "LENOVO",
-            "model": "B8O8",
-            "serialNumber": "B1J6XO0TKRHN",
+            "model": "Y5MF",
+            "serialNumber": "DAFD049MGI4F",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
@@ -357,33 +339,69 @@
                 "antivirus": true,
                 "encryption": false
             },
-            "user": "bsurmonj@moonfruit.com",
-            "lastCheckInDate": "01/13/1978"
+            "user": "hheadricki@bbb.org",
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 3997,
+            "id": 1427,
             "clientId": "flash",
             "manufacturer": "LENOVO",
-            "model": "6E7C",
-            "serialNumber": "JJNCO3ZF90EL",
+            "model": "CRAH",
+            "serialNumber": "3NCQN4NL3TSB",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
                 "firewall": false,
+                "antivirus": false,
+                "encryption": false
+            },
+            "user": "bsurmonj@moonfruit.com",
+            "lastCheckInDate": 1690498246
+        },
+        {
+            "id": 7422,
+            "clientId": "flash",
+            "manufacturer": "LENOVO",
+            "model": "RBQ9",
+            "serialNumber": "9NGCPP63OBX4",
+            "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
+            "ram": 16,
+            "storage": 512,
+            "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
+            "security": {
+                "firewall": true,
                 "antivirus": true,
                 "encryption": false
             },
             "user": "bpendergastk@is.gd",
-            "lastCheckInDate": "06/12/1978"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 1311,
+            "id": 1816,
             "clientId": "flash",
             "manufacturer": "LENOVO",
-            "model": "ZOBQ",
-            "serialNumber": "FGMJQAFXXKNI",
+            "model": "G9PS",
+            "serialNumber": "3PM1H20EFLL3",
+            "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
+            "ram": 16,
+            "storage": 512,
+            "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": false
+            },
+            "user": "mconcannonl@miibeian.gov.cn",
+            "lastCheckInDate": 1690498246
+        },
+        {
+            "id": 9918,
+            "clientId": "flash",
+            "manufacturer": "LENOVO",
+            "model": "DZTI",
+            "serialNumber": "2U7Z02ZFBZ3Z",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
@@ -391,17 +409,35 @@
             "security": {
                 "firewall": true,
                 "antivirus": true,
-                "encryption": false
+                "encryption": true
             },
-            "user": "mconcannonl@miibeian.gov.cn",
-            "lastCheckInDate": "06/13/1980"
+            "user": "sleportm@chronoengine.com",
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 4749,
-            "clientId": "flash",
+            "id": 5597,
+            "clientId": "zoom",
             "manufacturer": "LENOVO",
-            "model": "MP7Y",
-            "serialNumber": "PADNBCXKQ8VD",
+            "model": "QMUE",
+            "serialNumber": "OOUHT2JNTF2I",
+            "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
+            "ram": 16,
+            "storage": 512,
+            "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "user": "lgallihawkn@pagesperso-orange.fr",
+            "lastCheckInDate": 1690498246
+        },
+        {
+            "id": 8961,
+            "clientId": "zoom",
+            "manufacturer": "LENOVO",
+            "model": "9YO8",
+            "serialNumber": "F0MJ267YT4LV",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
@@ -411,51 +447,15 @@
                 "antivirus": false,
                 "encryption": false
             },
-            "user": "sleportm@chronoengine.com",
-            "lastCheckInDate": "01/23/2016"
-        },
-        {
-            "id": 4323,
-            "clientId": "zoom",
-            "manufacturer": "LENOVO",
-            "model": "96YE",
-            "serialNumber": "JM7DLPUHYEN7",
-            "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-            "ram": 16,
-            "storage": 512,
-            "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-            "security": {
-                "firewall": true,
-                "antivirus": false,
-                "encryption": true
-            },
-            "user": "lgallihawkn@pagesperso-orange.fr",
-            "lastCheckInDate": "07/21/2008"
-        },
-        {
-            "id": 5793,
-            "clientId": "zoom",
-            "manufacturer": "LENOVO",
-            "model": "1FT8",
-            "serialNumber": "4K9FOI7K18RJ",
-            "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-            "ram": 16,
-            "storage": 512,
-            "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-            "security": {
-                "firewall": true,
-                "antivirus": true,
-                "encryption": true
-            },
             "user": "ssegoeo@salon.com",
-            "lastCheckInDate": "01/09/1984"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 3009,
+            "id": 6057,
             "clientId": "zoom",
             "manufacturer": "LENOVO",
-            "model": "BA2D",
-            "serialNumber": "YA5RZAPF8E3T",
+            "model": "760K",
+            "serialNumber": "MKE57M7V47BX",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
@@ -466,68 +466,50 @@
                 "encryption": false
             },
             "user": "amullanyp@xrea.com",
-            "lastCheckInDate": "07/28/1986"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 7717,
+            "id": 3455,
             "clientId": "zoom",
             "manufacturer": "LENOVO",
-            "model": "ZFEF",
-            "serialNumber": "FQM0K1A9ABA4",
+            "model": "MCD8",
+            "serialNumber": "UA27E8UQX8P9",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
                 "firewall": true,
-                "antivirus": false,
+                "antivirus": true,
                 "encryption": false
             },
             "user": "kdumingoq@timesonline.co.uk",
-            "lastCheckInDate": "04/15/2005"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 5624,
+            "id": 1270,
             "clientId": "zoom",
             "manufacturer": "LENOVO",
-            "model": "PO12",
-            "serialNumber": "RJLE759J0ZMF",
+            "model": "JF30",
+            "serialNumber": "F747XO12QJXM",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
-                "firewall": false,
+                "firewall": true,
                 "antivirus": false,
                 "encryption": false
             },
             "user": "lfentemr@amazon.com",
-            "lastCheckInDate": "06/07/2009"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 4685,
+            "id": 9771,
             "clientId": "zoom",
             "manufacturer": "LENOVO",
-            "model": "A9C2",
-            "serialNumber": "1MZ3Z07IDPES",
-            "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-            "ram": 16,
-            "storage": 512,
-            "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-            "security": {
-                "firewall": false,
-                "antivirus": true,
-                "encryption": true
-            },
-            "user": "gnarramors@biblegateway.com",
-            "lastCheckInDate": "03/25/2000"
-        },
-        {
-            "id": 6274,
-            "clientId": "zoom",
-            "manufacturer": "LENOVO",
-            "model": "IL97",
-            "serialNumber": "MN664BQNNDO0",
+            "model": "XDV1",
+            "serialNumber": "PL4XYA95G47R",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
@@ -537,105 +519,141 @@
                 "antivirus": false,
                 "encryption": true
             },
-            "user": "acaughtryt@twitter.com",
-            "lastCheckInDate": "10/15/1994"
+            "user": "gnarramors@biblegateway.com",
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 3847,
+            "id": 9580,
             "clientId": "zoom",
             "manufacturer": "LENOVO",
-            "model": "P1F0",
-            "serialNumber": "9YK37BI5YK82",
+            "model": "JOBK",
+            "serialNumber": "OCA4BXSHSJX8",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
-                "firewall": false,
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "user": "acaughtryt@twitter.com",
+            "lastCheckInDate": 1690498246
+        },
+        {
+            "id": 4987,
+            "clientId": "zoom",
+            "manufacturer": "LENOVO",
+            "model": "7CNF",
+            "serialNumber": "30F7AUYLJDEL",
+            "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
+            "ram": 16,
+            "storage": 512,
+            "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
+            "security": {
+                "firewall": true,
                 "antivirus": true,
                 "encryption": true
             },
             "user": "pbailesu@berkeley.edu",
-            "lastCheckInDate": "07/16/2022"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 3715,
+            "id": 5615,
             "clientId": "zoom",
             "manufacturer": "LENOVO",
-            "model": "FOH2",
-            "serialNumber": "7EBCA1PH61KZ",
+            "model": "5KMS",
+            "serialNumber": "DMX5PR7B7XKR",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
                 "firewall": true,
-                "antivirus": true,
-                "encryption": true
+                "antivirus": false,
+                "encryption": false
             },
             "user": "mmarhamv@yahoo.com",
-            "lastCheckInDate": "03/25/1992"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 8392,
+            "id": 7068,
             "clientId": "zoom",
             "manufacturer": "LENOVO",
-            "model": "YLS5",
-            "serialNumber": "22L9VCVM8OB1",
+            "model": "OZ45",
+            "serialNumber": "GKJQPEPVQN86",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
                 "firewall": true,
-                "antivirus": true,
+                "antivirus": false,
                 "encryption": true
             },
             "user": "gzecchiniw@nytimes.com",
-            "lastCheckInDate": "12/08/1996"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 3898,
+            "id": 9717,
             "clientId": "zoom",
             "manufacturer": "LENOVO",
-            "model": "0FC7",
-            "serialNumber": "P1SLI3ACXYR7",
+            "model": "LL11",
+            "serialNumber": "PUG2LL41Z6YU",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
                 "firewall": false,
-                "antivirus": false,
+                "antivirus": true,
                 "encryption": true
             },
             "user": "kbiermanx@usa.gov",
-            "lastCheckInDate": "09/23/1998"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 7906,
+            "id": 4988,
             "clientId": "zoom",
             "manufacturer": "LENOVO",
-            "model": "69RR",
-            "serialNumber": "X7YVKLTMTUAJ",
+            "model": "HK11",
+            "serialNumber": "L5EMMXO0SCQP",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
-                "firewall": false,
-                "antivirus": false,
-                "encryption": false
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
             },
             "user": "ksharrardy@boston.com",
-            "lastCheckInDate": "10/27/1985"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 4446,
+            "id": 4490,
             "clientId": "zoom",
             "manufacturer": "LENOVO",
-            "model": "581O",
-            "serialNumber": "7EXB625N4A7J",
+            "model": "BO09",
+            "serialNumber": "HUFYSP8A6NGU",
+            "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
+            "ram": 16,
+            "storage": 512,
+            "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "user": "rovendonz@etsy.com",
+            "lastCheckInDate": 1690498246
+        },
+        {
+            "id": 3920,
+            "clientId": "zoom",
+            "manufacturer": "LENOVO",
+            "model": "05EE",
+            "serialNumber": "OGPVNTMKA0RN",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
@@ -645,87 +663,69 @@
                 "antivirus": false,
                 "encryption": true
             },
-            "user": "rovendonz@etsy.com",
-            "lastCheckInDate": "09/18/1983"
-        },
-        {
-            "id": 1539,
-            "clientId": "zoom",
-            "manufacturer": "LENOVO",
-            "model": "NMNP",
-            "serialNumber": "I4E0LTJ51QX2",
-            "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-            "ram": 16,
-            "storage": 512,
-            "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-            "security": {
-                "firewall": true,
-                "antivirus": true,
-                "encryption": false
-            },
             "user": "bpykerman10@walmart.com",
-            "lastCheckInDate": "05/13/2018"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 6239,
+            "id": 3195,
             "clientId": "zoom",
             "manufacturer": "LENOVO",
-            "model": "2DE9",
-            "serialNumber": "VCZ73LBF247Q",
+            "model": "KO8F",
+            "serialNumber": "5AKN1XSFDNI5",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
                 "firewall": true,
-                "antivirus": true,
+                "antivirus": false,
                 "encryption": true
             },
             "user": "rlorent11@senate.gov",
-            "lastCheckInDate": "09/24/1977"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 1015,
+            "id": 7020,
             "clientId": "zoom",
             "manufacturer": "LENOVO",
-            "model": "YBUC",
-            "serialNumber": "UJOR57G3D85V",
-            "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-            "ram": 16,
-            "storage": 512,
-            "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-            "security": {
-                "firewall": false,
-                "antivirus": false,
-                "encryption": false
-            },
-            "user": "bchansonnau12@blogs.com",
-            "lastCheckInDate": "10/13/2003"
-        },
-        {
-            "id": 3805,
-            "clientId": "zoom",
-            "manufacturer": "LENOVO",
-            "model": "ZQKN",
-            "serialNumber": "MG8NZCOPQM0H",
+            "model": "3RXE",
+            "serialNumber": "EUSEH8CX7KRR",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
                 "firewall": true,
-                "antivirus": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "user": "bchansonnau12@blogs.com",
+            "lastCheckInDate": 1690498246
+        },
+        {
+            "id": 5871,
+            "clientId": "zoom",
+            "manufacturer": "LENOVO",
+            "model": "PUNF",
+            "serialNumber": "4NS3AORTH7GH",
+            "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
+            "ram": 16,
+            "storage": 512,
+            "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
                 "encryption": false
             },
             "user": "oliddy13@elegantthemes.com",
-            "lastCheckInDate": "05/17/1987"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 9138,
+            "id": 3752,
             "clientId": "zoom",
             "manufacturer": "LENOVO",
-            "model": "2ZE9",
-            "serialNumber": "J51LB899KIKS",
+            "model": "XZ12",
+            "serialNumber": "AC17SBA6CHLU",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
@@ -733,35 +733,35 @@
             "security": {
                 "firewall": true,
                 "antivirus": true,
-                "encryption": false
+                "encryption": true
             },
             "user": "swagge14@va.gov",
-            "lastCheckInDate": "11/10/2009"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 3035,
+            "id": 8890,
             "clientId": "zoom",
             "manufacturer": "LENOVO",
-            "model": "9173",
-            "serialNumber": "I3RADD6KSZPE",
+            "model": "OBBJ",
+            "serialNumber": "B83QNSDGEEYC",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
-                "firewall": false,
-                "antivirus": true,
+                "firewall": true,
+                "antivirus": false,
                 "encryption": false
             },
             "user": "csackur15@japanpost.jp",
-            "lastCheckInDate": "05/22/2004"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 5051,
+            "id": 4044,
             "clientId": "zoom",
             "manufacturer": "LENOVO",
-            "model": "F11B",
-            "serialNumber": "L49ZVZR95P15",
+            "model": "DUJZ",
+            "serialNumber": "J1IG8XTGH9FU",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
@@ -772,50 +772,50 @@
                 "encryption": true
             },
             "user": "abransden16@answers.com",
-            "lastCheckInDate": "02/28/1972"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 5549,
+            "id": 6036,
             "clientId": "zoom",
             "manufacturer": "LENOVO",
-            "model": "L7I3",
-            "serialNumber": "GIDKJE9L7PPB",
+            "model": "0751",
+            "serialNumber": "6H81VXUSALBR",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
                 "firewall": false,
-                "antivirus": false,
+                "antivirus": true,
                 "encryption": false
             },
             "user": "crubenov17@slate.com",
-            "lastCheckInDate": "12/31/1979"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 1569,
+            "id": 9692,
             "clientId": "zoom",
             "manufacturer": "LENOVO",
-            "model": "6QFC",
-            "serialNumber": "A9LRIJ4AUUMK",
+            "model": "KLYI",
+            "serialNumber": "P7O4D0AEK30E",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
-                "firewall": true,
-                "antivirus": false,
+                "firewall": false,
+                "antivirus": true,
                 "encryption": false
             },
             "user": "gdraye18@state.tx.us",
-            "lastCheckInDate": "11/25/1982"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 6991,
+            "id": 5883,
             "clientId": "zoom",
             "manufacturer": "LENOVO",
-            "model": "FHVA",
-            "serialNumber": "FFSVJ1EQNPXY",
+            "model": "9H9Y",
+            "serialNumber": "3YTQRCK6LKFV",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
@@ -826,79 +826,79 @@
                 "encryption": false
             },
             "user": "gmarde19@phpbb.com",
-            "lastCheckInDate": "02/02/2020"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 4553,
+            "id": 8899,
             "clientId": "zoom",
             "manufacturer": "LENOVO",
-            "model": "0J9Y",
-            "serialNumber": "N4IGO7H50QE2",
+            "model": "CGQ3",
+            "serialNumber": "2549LADT3C0V",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
-                "firewall": true,
+                "firewall": false,
                 "antivirus": true,
-                "encryption": true
+                "encryption": false
             },
             "user": "llivzey1a@tinyurl.com",
-            "lastCheckInDate": "02/04/1980"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 8622,
+            "id": 1644,
             "clientId": "zoom",
             "manufacturer": "LENOVO",
-            "model": "TMRS",
-            "serialNumber": "SROF30QZ08AO",
+            "model": "H56V",
+            "serialNumber": "6UL0LIIIPBUU",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
-                "firewall": true,
-                "antivirus": false,
+                "firewall": false,
+                "antivirus": true,
                 "encryption": true
             },
             "user": "jbortoluzzi1b@booking.com",
-            "lastCheckInDate": "10/13/1972"
+            "lastCheckInDate": 1690498246
         },
         {
-            "id": 4748,
+            "id": 1758,
             "clientId": "zoom",
             "manufacturer": "LENOVO",
-            "model": "68ZX",
-            "serialNumber": "CL27PQN7DFHZ",
+            "model": "MMBJ",
+            "serialNumber": "OA28CU0SUUEG",
             "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
             "ram": 16,
             "storage": 512,
             "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
             "security": {
-                "firewall": true,
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "user": "cnorthcott1c@wix.com",
+            "lastCheckInDate": 1690498246
+        },
+        {
+            "id": 2879,
+            "clientId": "zoom",
+            "manufacturer": "LENOVO",
+            "model": "0JFK",
+            "serialNumber": "QHMOLKQ330Z4",
+            "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
+            "ram": 16,
+            "storage": 512,
+            "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
+            "security": {
+                "firewall": false,
                 "antivirus": true,
                 "encryption": false
             },
-            "user": "cnorthcott1c@wix.com",
-            "lastCheckInDate": "07/14/2018"
-        },
-        {
-            "id": 3968,
-            "clientId": "zoom",
-            "manufacturer": "LENOVO",
-            "model": "ITVC",
-            "serialNumber": "MYUD8N1LTNZC",
-            "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-            "ram": 16,
-            "storage": 512,
-            "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-            "security": {
-                "firewall": true,
-                "antivirus": false,
-                "encryption": false
-            },
             "user": "aguly1d@ca.gov",
-            "lastCheckInDate": "12/29/1978"
+            "lastCheckInDate": 1690498246
         }
     ]
 }
