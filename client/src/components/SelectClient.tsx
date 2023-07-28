@@ -1,14 +1,24 @@
-import { MenuItem, Select } from "@mui/material";
+import { Button, FormControl, MenuItem, Select } from "@mui/material";
 import { useEffect, useState } from "react";
 
-const SelectClient = ({ setClientId }: { setClientId: any }) => {
-  const [clients, setClients] = useState<string[]>([]);
+const SelectClient = ({
+  clientId,
+  setClientId,
+}: {
+  clientId: string;
+  setClientId: any;
+}) => {
+  const [clients, setClients] = useState<string[]>([""]);
+  const [refresh, setRefresh] = useState(true);
 
   useEffect(() => {
     fetch("/clients")
-      .then((res) => res.json())
-      .then((data) => setClients(data));
-  }, []);
+      .then((res) => (res.bodyUsed ? res.json() : res.json()))
+      .then((data) => {
+        setClients(data);
+        setRefresh(false);
+      });
+  }, [refresh]);
 
   useEffect(() => {
     setClientId(clients[0]);
@@ -21,21 +31,35 @@ const SelectClient = ({ setClientId }: { setClientId: any }) => {
 
   return (
     <>
-      {clients.length > 0 ? (
+      {clients ? (
+        <FormControl>
+          <Select
+            label="Client"
+            variant="filled"
+            onChange={clientChange}
+            value={clientId}
+          >
+            {clients.map((client: string, index: number) => (
+              <MenuItem key={index} value={client}>
+                {client.slice(0, 1).toUpperCase() +
+                  client.slice(1, client.length)}
+              </MenuItem>
+            ))}
+          </Select>
+        </FormControl>
+      ) : (
         <Select
-          label="Client"
           variant="filled"
-          onChange={clientChange}
-          defaultValue={clients[0]}
+          label="No Client Found"
+          defaultValue="no-client-found"
+          disabled
         >
-          {clients.map((client: string, index: number) => (
-            <MenuItem key={index} value={client}>
-              {client.slice(0, 1).toUpperCase() +
-                client.slice(1, client.length)}
-            </MenuItem>
-          ))}
+          <MenuItem value="no-client-found">No Client Found</MenuItem>
         </Select>
-      ) : null}
+      )}
+      <Button variant="contained" onClick={() => setRefresh(true)}>
+        refresh
+      </Button>
     </>
   );
 };

@@ -3,15 +3,15 @@ import { TDevice } from "../types/device";
 
 const Info = ({
   devices,
-  totalClientDevices,
+  totalDevices,
 }: {
   devices: TDevice[];
-  totalClientDevices: number;
+  totalDevices: number;
 }) => {
   return (
     <>
       <Typography>{devices.length} device(s) currently displayed</Typography>
-      <Typography>{totalClientDevices} device(s) total</Typography>
+      <Typography>{totalDevices} device(s) total</Typography>
     </>
   );
 };

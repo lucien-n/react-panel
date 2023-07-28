@@ -16,23 +16,23 @@ const Devices = ({
   page,
   devices,
   setDevices,
-  setTotalClientDevices,
+  setTotalDevices,
 }: {
   clientId: string;
   page: number;
   devices: TDevice[];
   setDevices: any;
-  setTotalClientDevices: any;
+  setTotalDevices: any;
 }) => {
   useEffect(() => {
     if (clientId)
       fetch(`/devices/${clientId}/${page || 0}`)
         .then((res) => res.json())
-        .then(({ devices: clientDevices, total: totalClientDevices }) => {
-          setDevices(clientDevices);
-          setTotalClientDevices(totalClientDevices);
+        .then(({ devices: clientDevices, total: totalDevices }) => {
+          setDevices(clientDevices || []);
+          setTotalDevices(totalDevices || 0);
         });
-  }, [clientId, page, setDevices, setTotalClientDevices]);
+  }, [clientId, page, setDevices, setTotalDevices]);
 
   return (
     <>

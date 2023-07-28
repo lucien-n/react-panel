@@ -1,23 +1,24 @@
-import { TextField } from "@mui/material";
+import { Pagination } from "@mui/material";
 
-const SelectPage = ({ page, setPage }: { page: number; setPage: any }) => {
-  const onPageChange = (event: React.FormEvent) => {
-    const value = parseInt((event.target as any).value);
-    setPage(value);
+const SelectPage = ({
+  page,
+  setPage,
+  totalDevices,
+}: {
+  page: number;
+  setPage: any;
+  totalDevices: number;
+}) => {
+  const onPageChange = (_: any, value: number) => {
+    setPage(value - 1);
   };
 
   return (
     <>
-      <TextField
-        label="Page"
-        type="number"
-        defaultValue={0}
+      <Pagination
         onChange={onPageChange}
-        variant="filled"
-        InputProps={{ inputProps: { min: "0", step: "1" } }}
-      >
-        {page}
-      </TextField>
+        count={Math.ceil(totalDevices / 10)}
+      ></Pagination>
     </>
   );
 };
