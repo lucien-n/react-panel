@@ -1,13 +1,9 @@
 import { Device } from "./types/device";
 
 export const getNumberOfHealthyDevices = (devices: Device[]) => {
-  const healthyDevices = [];
-
-  for (const device of devices) {
-    if (isDeviceSilent(device) || !isDeviceSecured(device)) continue;
-    healthyDevices.push(device);
-  }
-
+  const healthyDevices = devices.filter(
+    (device) => isDeviceSecured(device) && !isDeviceSilent(device)
+  );
   return healthyDevices.length;
 };
 

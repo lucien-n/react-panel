@@ -19,7 +19,9 @@ app.get("/devices/:id/:page?", (req, res) => {
     const page = req.params.page ?? 0;
 
     const pageFactor = maxElementsPerPage * page;
+
     const clientDevices = devices.devices.slice().filter((device) => device.clientId == clientId);
+
     const totalClientDevices = clientDevices.length;
     const paginatedClientDevices = clientDevices.slice(0 + pageFactor, maxElementsPerPage + pageFactor);
 
