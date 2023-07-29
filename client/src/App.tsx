@@ -1,9 +1,10 @@
+import Panel from "./components/Panel";
 import "./index.css";
 
 function App() {
   return (
-    <main className="container mx-auto items-center flex justify-center h-full w-full">
-      <h1 className="text-5xl">Hello World!</h1>
+    <main className="container mx-auto p-8 h-full w-full flex gap-5">
+      <Panel></Panel>
     </main>
   );
 }

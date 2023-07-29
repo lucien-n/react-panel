@@ -5,13 +5,8 @@ const app: express.Application = express();
 
 const port: number = 5_000;
 const devicePerPage: number = 10;
-const simulatedTimeout: number = 10;
 
-app.use(function (req, res, next) {
-  setTimeout(next, simulatedTimeout);
-});
-
-app.get("/devices/:id/:page?", (req, res) => {
+app.get("/api/devices/:id/:page?", (req, res) => {
   const clientId = req.params.id;
 
   const page = parseInt(req.params.page ?? "0") || 0;
@@ -28,7 +23,7 @@ app.get("/devices/:id/:page?", (req, res) => {
   res.json({ devices: pagedDevices, total: totalDevices });
 });
 
-app.get("/clients", (req, res) => {
+app.get("/api/clients", (req, res) => {
   const clients: string[] = [];
 
   database.devices.forEach(({ clientId }) => {
