@@ -1,18 +1,9 @@
 import { Box, TableCell } from "@mui/material";
 import { TDevice } from "../types/device";
 import { Icon } from "@iconify/react";
+import { isHealthy, isSilent } from "../helper";
 
 const DeviceSecurity = ({ device }: { device: TDevice }) => {
-  const isSilent = (): boolean => {
-    return (
-      new Date().getTime() / 1000 - device.lastCheckInDate > 30 * 24 * 60 * 60
-    );
-  };
-
-  const isHealthy = (): boolean => {
-    return Object.values(device.security).every((security) => security);
-  };
-
   return (
     <TableCell>
       <Box
@@ -23,9 +14,9 @@ const DeviceSecurity = ({ device }: { device: TDevice }) => {
           height: "full",
         }}
       >
-        {isSilent() ? (
+        {isSilent(device.lastCheckInDate) ? (
           <Icon icon="mdi:clock" width="24px" color="grey" />
-        ) : isHealthy() ? (
+        ) : isHealthy(device.security) ? (
           <Icon icon="mdi:shield-check" width="24px" color="green" />
         ) : (
           <>
