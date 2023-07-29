@@ -1,1 +1,2 @@
-# React Everping Technical Test - V2
+# React Vite panel
+
