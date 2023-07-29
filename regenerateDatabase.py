@@ -4,11 +4,16 @@ import time
 import math
 
 chars = "ABCDEFGHIJKLMNOPQRSTUVXYZ1234567890"
+clients = ["Kevin", "Steve", "Melany", "Andrew", "Sofia"]
+numberOfDevice = 250
 
 with open("./server/src/database.json", "r+") as f:
     data = json.load(f)
+    devices = []
 
-    for device in data["devices"]:
+    for i in range(numberOfDevice):
+        device = {}
+
         deviceSerial = "".join([random.choice(chars) for _ in range(12)])
         device["serialNumber"] = deviceSerial
 
@@ -29,6 +34,13 @@ with open("./server/src/database.json", "r+") as f:
             10 * 24 * 3600, 32 * 24 * 3600
         )
         device["lastCheckInDate"] = deviceLastCheckInDate
+
+        deviceClientId = random.choice(clients)
+        device["clientId"] = deviceClientId
+
+        devices.append(device)
+
+    data["devices"] = devices
 
     f.seek(0)
     json.dump(data, f, indent=4)

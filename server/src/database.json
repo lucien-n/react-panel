@@ -1,904 +1,3004 @@
 {
-  "devices": [
-    {
-      "id": 9255,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "ZYSU",
-      "serialNumber": "H19C21QHFJQT",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": false
-      },
-      "user": "lberzins0@utexas.edu",
-      "lastCheckInDate": 1688037057
-    },
-    {
-      "id": 1243,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "R34J",
-      "serialNumber": "LQB3C9D63Z39",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "gdawber1@blogspot.com",
-      "lastCheckInDate": 1689306455
-    },
-    {
-      "id": 8060,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "D128",
-      "serialNumber": "FGS7I4XBQQR4",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "nhastie2@rambler.ru",
-      "lastCheckInDate": 1688841978
-    },
-    {
-      "id": 2208,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "7XTJ",
-      "serialNumber": "VMN10U696BRI",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": false,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "seisikowitch3@godaddy.com",
-      "lastCheckInDate": 1688607059
-    },
-    {
-      "id": 7613,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "328K",
-      "serialNumber": "5HQMQND4ATQG",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "gmcgawn4@goodreads.com",
-      "lastCheckInDate": 1688907163
-    },
-    {
-      "id": 1267,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "61T6",
-      "serialNumber": "6O06C5JDV1J3",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "kcollelton5@etsy.com",
-      "lastCheckInDate": 1688459911
-    },
-    {
-      "id": 1085,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "9K2Y",
-      "serialNumber": "TYDVQRNZIJQF",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": false,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "ajendrassik6@w3.org",
-      "lastCheckInDate": 1689509297
-    },
-    {
-      "id": 4551,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "ZFVZ",
-      "serialNumber": "X7KVNSYRX6AU",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": false,
-        "encryption": false
-      },
-      "user": "pdagg7@buzzfeed.com",
-      "lastCheckInDate": 1688104870
-    },
-    {
-      "id": 9822,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "068S",
-      "serialNumber": "2NT4XBBY3LD1",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": false,
-        "encryption": true
-      },
-      "user": "deccleshall8@google.es",
-      "lastCheckInDate": 1688321787
-    },
-    {
-      "id": 6492,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "VKBZ",
-      "serialNumber": "Y49TF2OABFIL",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "bworthy9@people.com.cn",
-      "lastCheckInDate": 1688770831
-    },
-    {
-      "id": 8173,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "RZA7",
-      "serialNumber": "5ZOG4QBBUNCA",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": false,
-        "encryption": false
-      },
-      "user": "etabrama@thetimes.co.uk",
-      "lastCheckInDate": 1688973115
-    },
-    {
-      "id": 7289,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "N70B",
-      "serialNumber": "PM9AZRNJUEGF",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "cwoodroffeb@wordpress.org",
-      "lastCheckInDate": 1688131829
-    },
-    {
-      "id": 2850,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "PVA0",
-      "serialNumber": "R2E3BEKGEN1L",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "fobyrnec@narod.ru",
-      "lastCheckInDate": 1687980394
-    },
-    {
-      "id": 1285,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "2523",
-      "serialNumber": "M2XVU6MEDDZV",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": false,
-        "encryption": true
-      },
-      "user": "ethridgouldd@lulu.com",
-      "lastCheckInDate": 1689455057
-    },
-    {
-      "id": 1277,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "R7P2",
-      "serialNumber": "93BCSA6EO0O4",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "smckiee@cmu.edu",
-      "lastCheckInDate": 1689127222
-    },
-    {
-      "id": 4564,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "0OKL",
-      "serialNumber": "046Y8S9D8YB5",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": false,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "wrabbf@arstechnica.com",
-      "lastCheckInDate": 1688319216
-    },
-    {
-      "id": 7058,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "4JYJ",
-      "serialNumber": "0TXQYUSZH1KI",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": false,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "jgaltoneg@ameblo.jp",
-      "lastCheckInDate": 1688638271
-    },
-    {
-      "id": 6525,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "2UL1",
-      "serialNumber": "PEYS8OOFTSUV",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": false
-      },
-      "user": "mlernerh@dot.gov",
-      "lastCheckInDate": 1688612170
-    },
-    {
-      "id": 9521,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "Q7BI",
-      "serialNumber": "6AY8RNO3T8Z8",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "hheadricki@bbb.org",
-      "lastCheckInDate": 1688156677
-    },
-    {
-      "id": 5794,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "68S4",
-      "serialNumber": "N3ADJ9XPMXPT",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "bsurmonj@moonfruit.com",
-      "lastCheckInDate": 1688684884
-    },
-    {
-      "id": 1427,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "MTRK",
-      "serialNumber": "LEQLYDIT740E",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": false,
-        "antivirus": false,
-        "encryption": false
-      },
-      "user": "bpendergastk@is.gd",
-      "lastCheckInDate": 1689474590
-    },
-    {
-      "id": 1889,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "BHLQ",
-      "serialNumber": "DEN6D56CC138",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": false,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "mconcannonl@miibeian.gov.cn",
-      "lastCheckInDate": 1687907633
-    },
-    {
-      "id": 8838,
-      "clientId": "flash",
-      "manufacturer": "LENOVO",
-      "model": "OM1P",
-      "serialNumber": "ZKRS5XUPK0LH",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": false,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "sleportm@chronoengine.com",
-      "lastCheckInDate": 1688436254
-    },
-    {
-      "id": 7517,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "Z9BD",
-      "serialNumber": "J17S0GSNXL93",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": false,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "lgallihawkn@pagesperso-orange.fr",
-      "lastCheckInDate": 1688042767
-    },
-    {
-      "id": 1426,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "4127",
-      "serialNumber": "3V5T4OLHQ8CG",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "ssegoeo@salon.com",
-      "lastCheckInDate": 1688668627
-    },
-    {
-      "id": 3486,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "6F1G",
-      "serialNumber": "QV5XRC9N0CCS",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": false,
-        "encryption": true
-      },
-      "user": "amullanyp@xrea.com",
-      "lastCheckInDate": 1688190868
-    },
-    {
-      "id": 6335,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "NPHC",
-      "serialNumber": "HC90B4A4GMJL",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "kdumingoq@timesonline.co.uk",
-      "lastCheckInDate": 1689558972
-    },
-    {
-      "id": 9066,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "8UJT",
-      "serialNumber": "MUCCFNA8M2EZ",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": false
-      },
-      "user": "lfentemr@amazon.com",
-      "lastCheckInDate": 1689338765
-    },
-    {
-      "id": 5486,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "ZEYK",
-      "serialNumber": "MATUMHS9PR9G",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": false,
-        "encryption": true
-      },
-      "user": "gnarramors@biblegateway.com",
-      "lastCheckInDate": 1689473750
-    },
-    {
-      "id": 5023,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "K7N2",
-      "serialNumber": "ZKRMROG7GZ8A",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "acaughtryt@twitter.com",
-      "lastCheckInDate": 1688524657
-    },
-    {
-      "id": 4099,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "KMKC",
-      "serialNumber": "ZCMVQUY9X1BJ",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": false
-      },
-      "user": "pbailesu@berkeley.edu",
-      "lastCheckInDate": 1687764644
-    },
-    {
-      "id": 3569,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "4VXD",
-      "serialNumber": "2TT9N9Y0HTP9",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "mmarhamv@yahoo.com",
-      "lastCheckInDate": 1688983689
-    },
-    {
-      "id": 2100,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "H1C7",
-      "serialNumber": "I3DP7GMCFI0T",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": false,
-        "antivirus": true,
-        "encryption": false
-      },
-      "user": "gzecchiniw@nytimes.com",
-      "lastCheckInDate": 1688074527
-    },
-    {
-      "id": 3463,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "6EHU",
-      "serialNumber": "LSP8KXNYUZ1T",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "kbiermanx@usa.gov",
-      "lastCheckInDate": 1688209290
-    },
-    {
-      "id": 3031,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "VEIE",
-      "serialNumber": "HLRVDPG3L89H",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": false
-      },
-      "user": "ksharrardy@boston.com",
-      "lastCheckInDate": 1688585017
-    },
-    {
-      "id": 8967,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "L2AG",
-      "serialNumber": "OL3OYZR4GGO7",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": false
-      },
-      "user": "rovendonz@etsy.com",
-      "lastCheckInDate": 1689308588
-    },
-    {
-      "id": 9466,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "HHUZ",
-      "serialNumber": "1VM3V7M39D9D",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": false,
-        "encryption": false
-      },
-      "user": "bpykerman10@walmart.com",
-      "lastCheckInDate": 1688161517
-    },
-    {
-      "id": 3545,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "E19S",
-      "serialNumber": "DR1ITGNOUL0E",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "rlorent11@senate.gov",
-      "lastCheckInDate": 1687884157
-    },
-    {
-      "id": 9260,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "JH6M",
-      "serialNumber": "Z0LUG47JUL0O",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "bchansonnau12@blogs.com",
-      "lastCheckInDate": 1688255459
-    },
-    {
-      "id": 8794,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "NAPN",
-      "serialNumber": "ZDK1EBVJL6JE",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": false,
-        "encryption": false
-      },
-      "user": "oliddy13@elegantthemes.com",
-      "lastCheckInDate": 1688660669
-    },
-    {
-      "id": 7688,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "KBV9",
-      "serialNumber": "MEC9T6ZVSK2A",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "swagge14@va.gov",
-      "lastCheckInDate": 1687740663
-    },
-    {
-      "id": 9495,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "6ABM",
-      "serialNumber": "7F0ULP1GOXLF",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "csackur15@japanpost.jp",
-      "lastCheckInDate": 1689087014
-    },
-    {
-      "id": 7422,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "TYQC",
-      "serialNumber": "TY41M9RPNC58",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "abransden16@answers.com",
-      "lastCheckInDate": 1688744561
-    },
-    {
-      "id": 5044,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "3GGP",
-      "serialNumber": "9OOGU6YIKMEC",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "crubenov17@slate.com",
-      "lastCheckInDate": 1689585895
-    },
-    {
-      "id": 6352,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "1MTZ",
-      "serialNumber": "T3QAER99R3TE",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": false
-      },
-      "user": "gdraye18@state.tx.us",
-      "lastCheckInDate": 1689400851
-    },
-    {
-      "id": 3928,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "3Y19",
-      "serialNumber": "CM8QRZXJ3KJJ",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": false
-      },
-      "user": "gmarde19@phpbb.com",
-      "lastCheckInDate": 1688102673
-    },
-    {
-      "id": 9627,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "Q9S3",
-      "serialNumber": "75QQNH4E6FRH",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": false
-      },
-      "user": "llivzey1a@tinyurl.com",
-      "lastCheckInDate": 1688789384
-    },
-    {
-      "id": 2255,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "LX33",
-      "serialNumber": "1C0RRFIC5LY8",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "jbortoluzzi1b@booking.com",
-      "lastCheckInDate": 1688331737
-    },
-    {
-      "id": 9636,
-      "clientId": "zoom",
-      "manufacturer": "LENOVO",
-      "model": "DVFR",
-      "serialNumber": "PH0L9BETY83P",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "cnorthcott1c@wix.com",
-      "lastCheckInDate": 1688717630
-    },
-    {
-      "id": 4938,
-      "clientId": "lightning",
-      "manufacturer": "LENOVO",
-      "model": "JPIK",
-      "serialNumber": "EJXRHBL78QER",
-      "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-      "ram": 16,
-      "storage": 512,
-      "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
-      "security": {
-        "firewall": true,
-        "antivirus": true,
-        "encryption": true
-      },
-      "user": "aguly1d@ca.gov",
-      "lastCheckInDate": 1689541647
-    }
-  ]
+    "devices": [
+        {
+            "serialNumber": "EDNGC3V1F5FZ",
+            "id": 6042,
+            "model": "RXO8",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688686983,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "JEIOJC96ZMCO",
+            "id": 9361,
+            "model": "KXV0",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689239091,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "XKBSI5VJ07D8",
+            "id": 1904,
+            "model": "2EC9",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688705628,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "AJH1OBH40G59",
+            "id": 6984,
+            "model": "T4EL",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689751919,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "C444QDOMZMGK",
+            "id": 5680,
+            "model": "YJ5E",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688041269,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "QFF2YUBK5KKJ",
+            "id": 7784,
+            "model": "T1CS",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689223694,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "QY375RDEP8I7",
+            "id": 6243,
+            "model": "58EE",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688912540,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "6SRJMILP7FHX",
+            "id": 3407,
+            "model": "1ZH6",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689619219,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "2ZOJ0O4NS5DQ",
+            "id": 6453,
+            "model": "TQ3P",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688756905,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "2S8ULDLZYIE2",
+            "id": 2866,
+            "model": "CJ2G",
+            "security": {
+                "firewall": false,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688838394,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "BJ6H7ZAP3EDD",
+            "id": 5456,
+            "model": "CAOH",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688874826,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "ONOBIDTHTYJU",
+            "id": 2809,
+            "model": "PGMU",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688991380,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "CUOMH2T5VFX1",
+            "id": 2536,
+            "model": "2YEB",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689394125,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "J84RZUTPKRNO",
+            "id": 3854,
+            "model": "XA43",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689678827,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "TKC6VU60LFSP",
+            "id": 4304,
+            "model": "JDQV",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689335819,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "1G20DUP85L7P",
+            "id": 1519,
+            "model": "AYZM",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689411600,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "H00X2DLC2D62",
+            "id": 7069,
+            "model": "27B8",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688964786,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "L0U9SHVVVHJI",
+            "id": 8993,
+            "model": "ADZQ",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688559055,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "X7B3XS7DOCKP",
+            "id": 1403,
+            "model": "UBOU",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688775649,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "AC0J1YJ08024",
+            "id": 8515,
+            "model": "UXXO",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688560661,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "CLI8BQ9R56E4",
+            "id": 9499,
+            "model": "8KAH",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1687980292,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "OEBKBFV1QKIH",
+            "id": 6474,
+            "model": "Z10Y",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688599957,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "N1XKFR0ZLX3P",
+            "id": 8932,
+            "model": "ETBK",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688577099,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "HYCTTCBS3RMK",
+            "id": 3580,
+            "model": "VKSK",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688503822,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "J4B0NNHXJR8C",
+            "id": 8980,
+            "model": "GHFF",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688286606,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "LODZ2U703UQI",
+            "id": 2310,
+            "model": "IMXE",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689669765,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "8US13A7YUI9Z",
+            "id": 3951,
+            "model": "M125",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689742832,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "K09PVS8M02U2",
+            "id": 2729,
+            "model": "2OQR",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689653938,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "S8Y5TCPPPM8T",
+            "id": 4080,
+            "model": "5HTX",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688376012,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "4SZMRS0RTX4E",
+            "id": 2127,
+            "model": "UN2E",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688981490,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "6PISHU64FZ6S",
+            "id": 4935,
+            "model": "7BN3",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689262821,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "C0HCA5ONP6Q9",
+            "id": 5678,
+            "model": "9FGX",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688668053,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "JVB971FATCFU",
+            "id": 2614,
+            "model": "S829",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688327290,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "A74RCCBYIE9N",
+            "id": 7211,
+            "model": "IRR0",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688553715,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "O9XRETQ78SUC",
+            "id": 4104,
+            "model": "DRQ2",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689199370,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "2HCUTDA09GBY",
+            "id": 8810,
+            "model": "6QO4",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689582892,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "QIQYCBUHRFCL",
+            "id": 9031,
+            "model": "UTGK",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688400477,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "AP5YERC7HN2D",
+            "id": 1733,
+            "model": "BYVC",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688379143,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "DB5V25BJE2OG",
+            "id": 1096,
+            "model": "FZK4",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688768804,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "62FBJTXHZFIP",
+            "id": 6638,
+            "model": "JPVV",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689388988,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "H35FX3ZUGMZS",
+            "id": 9416,
+            "model": "CIZ3",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688485987,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "DV9E3PZ823MR",
+            "id": 4448,
+            "model": "ID67",
+            "security": {
+                "firewall": false,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688813781,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "0333DI87ZCQN",
+            "id": 8673,
+            "model": "HK9Y",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1689151874,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "74RVBV3QR7V1",
+            "id": 6990,
+            "model": "D542",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689708290,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "5KME3FBEHTSN",
+            "id": 9030,
+            "model": "81TE",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689650025,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "7BLVAV030DFE",
+            "id": 5459,
+            "model": "POFH",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688740388,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "CVOEB7JEEJAO",
+            "id": 1251,
+            "model": "E52J",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688478111,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "JJBUQ11AOG0Y",
+            "id": 8032,
+            "model": "0QQS",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689075555,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "VB9SGNYV6575",
+            "id": 8394,
+            "model": "1H2I",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688983731,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "B7F1Y26SATVB",
+            "id": 2476,
+            "model": "SHLX",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1687886351,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "VCIQK900LSFH",
+            "id": 5188,
+            "model": "E7RN",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688936412,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "UNNHE2R9MSVL",
+            "id": 5286,
+            "model": "6LUH",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688400238,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "GXLB7G8P09U9",
+            "id": 1876,
+            "model": "8F21",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688827897,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "1C0X3U0QFBSF",
+            "id": 8859,
+            "model": "0R06",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689228892,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "50AMVUVDNAFI",
+            "id": 6356,
+            "model": "QLIM",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689635118,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "HQ3GXSOI9SU0",
+            "id": 6130,
+            "model": "G0H2",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688013529,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "HASVJ3GSV2FE",
+            "id": 7044,
+            "model": "1636",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688444870,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "M5EI5NTFC5U6",
+            "id": 8729,
+            "model": "53ZV",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689129285,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "V2928DNRTPFY",
+            "id": 1818,
+            "model": "J89T",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1689305625,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "QSXD8TO41KC9",
+            "id": 1824,
+            "model": "9293",
+            "security": {
+                "firewall": false,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689714623,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "6DCZNY8AF04G",
+            "id": 2232,
+            "model": "GK34",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688453347,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "6V83TM13F56O",
+            "id": 5548,
+            "model": "BTL1",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689560260,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "O9Z87QAJDHU6",
+            "id": 1150,
+            "model": "K088",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688449067,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "SLYL3GEJVRHU",
+            "id": 7151,
+            "model": "AJCO",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688985386,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "3ZY7M24MHY4K",
+            "id": 4120,
+            "model": "E7KX",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688977199,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "Q84TXNIXPNZ6",
+            "id": 3149,
+            "model": "0ZYN",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688432366,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "VTQ7RO2POP34",
+            "id": 3457,
+            "model": "1QEH",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": false
+            },
+            "lastCheckInDate": 1689661306,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "7RH16QSGJ2IC",
+            "id": 2146,
+            "model": "P7Y3",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688736229,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "TEBYFTXOYFY5",
+            "id": 5780,
+            "model": "TBC9",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688507608,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "4M6EUGXS07QY",
+            "id": 5048,
+            "model": "3H3N",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689301977,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "6RPECIIQQ6LZ",
+            "id": 4086,
+            "model": "IVZA",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689466375,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "P4SLY13S3NVL",
+            "id": 7241,
+            "model": "JN0A",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689110198,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "VZ2JEEU1JT32",
+            "id": 8888,
+            "model": "QAH1",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688632701,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "5EH2I8PPNR4H",
+            "id": 5497,
+            "model": "LH21",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688136655,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "P0J9OGT69VOH",
+            "id": 9214,
+            "model": "OBG4",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688228132,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "I5SX58BD4UPF",
+            "id": 6048,
+            "model": "6NFJ",
+            "security": {
+                "firewall": false,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688656274,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "V7NMP1CFKC5V",
+            "id": 3138,
+            "model": "VLN2",
+            "security": {
+                "firewall": false,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688286952,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "C0FDFJRBHLB8",
+            "id": 9097,
+            "model": "NXJO",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688903958,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "19NP482NNCL1",
+            "id": 7347,
+            "model": "Q0MR",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689002960,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "LDZEGJETMA6Y",
+            "id": 4232,
+            "model": "SG90",
+            "security": {
+                "firewall": false,
+                "antivirus": false,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688246410,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "4H4JA3X7PEK0",
+            "id": 1844,
+            "model": "6JJ9",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688466905,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "CEBL0XF8F4P7",
+            "id": 9139,
+            "model": "93MD",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689385674,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "LDJBKX4U3BYH",
+            "id": 7947,
+            "model": "BQSA",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689656672,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "PBNQS02PGFGZ",
+            "id": 7365,
+            "model": "M29E",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689134101,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "J6ZBLHX0RD92",
+            "id": 6320,
+            "model": "S7PT",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688132609,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "NCYAX19B9XZF",
+            "id": 7282,
+            "model": "NE7U",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688790812,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "U2FE6FTQR6NG",
+            "id": 9436,
+            "model": "9ZK8",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689040743,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "PKNS5V85CEXL",
+            "id": 1433,
+            "model": "X31H",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": false
+            },
+            "lastCheckInDate": 1689437724,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "9MMVXLCFU9FD",
+            "id": 8325,
+            "model": "U4MQ",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688691886,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "N6EVBVO1A1CU",
+            "id": 2306,
+            "model": "G0YF",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689194488,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "F8UPYXLIKSHL",
+            "id": 4962,
+            "model": "4D28",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688474381,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "6S3SDX7BDHAG",
+            "id": 3992,
+            "model": "RT0T",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689548946,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "S744R056NP0D",
+            "id": 9333,
+            "model": "86CL",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688004118,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "T2PV2PZM3OOL",
+            "id": 1050,
+            "model": "XZ2J",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688510570,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "N1T80EXDSR7M",
+            "id": 2663,
+            "model": "UHF2",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689599268,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "05Y88MV0X1F2",
+            "id": 1632,
+            "model": "FEB7",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688531980,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "5NJKX9V2BKE7",
+            "id": 1492,
+            "model": "U13Z",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688843225,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "GSYQMGZMQFC0",
+            "id": 7620,
+            "model": "76HX",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688057672,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "OIDGK35VF8TA",
+            "id": 7426,
+            "model": "8J28",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1687890338,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "2OEYMQ71K796",
+            "id": 5754,
+            "model": "RND4",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1687915151,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "85YFIGKJX4Y9",
+            "id": 7011,
+            "model": "RRJJ",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689654393,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "EVMIG3IYV9V9",
+            "id": 8792,
+            "model": "ZJLF",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688006601,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "PPV1T31850CY",
+            "id": 2995,
+            "model": "3J28",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689381487,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "I3YYR2RZ18EM",
+            "id": 4379,
+            "model": "5YKL",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688990617,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "LS4VKMBCNZ5N",
+            "id": 6988,
+            "model": "2HC1",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1689270851,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "4RKR08DXQ75Q",
+            "id": 5155,
+            "model": "UGP3",
+            "security": {
+                "firewall": false,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689542797,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "J8A8SSXRIQN6",
+            "id": 1506,
+            "model": "VU17",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689008792,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "72GHBKJ0HDB4",
+            "id": 3402,
+            "model": "XZ7I",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1689313004,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "T6BN5C77R321",
+            "id": 5395,
+            "model": "9PXY",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688522996,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "A0LO92UOM1N0",
+            "id": 7442,
+            "model": "Y437",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689353338,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "8APM2L89C8DY",
+            "id": 9522,
+            "model": "R7XX",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688178469,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "DFZZIIU0CE5U",
+            "id": 6218,
+            "model": "P3VJ",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689432264,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "9KGHF6HSTH4G",
+            "id": 6189,
+            "model": "0MPP",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688561711,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "XOGJ7F33HC86",
+            "id": 4336,
+            "model": "HFEO",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688272015,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "TAYKK14TG0AK",
+            "id": 4134,
+            "model": "0NOC",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": false
+            },
+            "lastCheckInDate": 1689750128,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "4KDEVVCT9IGS",
+            "id": 6973,
+            "model": "HF50",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688965913,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "CVNICZ3QNQON",
+            "id": 3478,
+            "model": "ESRM",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689441816,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "QTA9D281JMVZ",
+            "id": 6406,
+            "model": "DIJ6",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689106145,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "M5GUXL0H4SBG",
+            "id": 5391,
+            "model": "CPXJ",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1687902331,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "JE6J33XYZ3VY",
+            "id": 4608,
+            "model": "6JVL",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688466100,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "C0KT46PAKQP1",
+            "id": 4718,
+            "model": "NCHA",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688793867,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "GFDLTXDN8F65",
+            "id": 3277,
+            "model": "1GB9",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688525793,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "0DPZMLDZ3TK2",
+            "id": 6139,
+            "model": "OOP2",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689022568,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "1KJBH0QFZMQD",
+            "id": 9065,
+            "model": "GMV7",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1687999507,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "QC618X4EUH10",
+            "id": 4140,
+            "model": "0ESI",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689731446,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "2ONAF1GQAZOE",
+            "id": 1952,
+            "model": "DNFX",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689518681,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "CFZ5I4FEA9KI",
+            "id": 2878,
+            "model": "2RXG",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1689361985,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "J3DVTD6IV694",
+            "id": 7598,
+            "model": "60U2",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689490246,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "61UK6BSBO3BG",
+            "id": 8780,
+            "model": "H55I",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689087322,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "5EPATR9X1H82",
+            "id": 3665,
+            "model": "4MHU",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1687919065,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "2TRU7E3VMUKB",
+            "id": 9495,
+            "model": "5NNY",
+            "security": {
+                "firewall": false,
+                "antivirus": false,
+                "encryption": false
+            },
+            "lastCheckInDate": 1687929913,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "NTN9RJ7JTME9",
+            "id": 2563,
+            "model": "RXTV",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688728263,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "7UZYUJ7YBFKC",
+            "id": 4468,
+            "model": "7QKE",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688790930,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "RPM59JUI6FA1",
+            "id": 1659,
+            "model": "B1TU",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688607112,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "YDM4NCFGYX6P",
+            "id": 8704,
+            "model": "PU16",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688950638,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "US1Y2H06Z1LF",
+            "id": 5625,
+            "model": "0RPE",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689008555,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "0M15LH3T0SK1",
+            "id": 8335,
+            "model": "K8MU",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689284350,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "XVUVTIQME90S",
+            "id": 9693,
+            "model": "P2OQ",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689362542,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "GBRBUIZS6SS4",
+            "id": 6084,
+            "model": "77JS",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689281633,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "X2Z149V9OHAB",
+            "id": 3861,
+            "model": "O2OO",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688227931,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "MCQ21NVUNJRF",
+            "id": 9011,
+            "model": "A75M",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688421726,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "NYVCLR5FY0SU",
+            "id": 4393,
+            "model": "FJGH",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689529053,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "BCSY2POXHPXJ",
+            "id": 6835,
+            "model": "701H",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688048662,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "7VER5IKJGQJL",
+            "id": 9961,
+            "model": "92OZ",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1689327703,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "V0X0TV6CPZL4",
+            "id": 3527,
+            "model": "P5I9",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688375736,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "R5FBQSPBBDQ0",
+            "id": 7168,
+            "model": "QNEY",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689606902,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "AIL4A9L87925",
+            "id": 1185,
+            "model": "YLQ1",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689209643,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "XO0ZG8N1IGKI",
+            "id": 1304,
+            "model": "VL9Q",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689419475,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "B49R59QVQBY7",
+            "id": 4735,
+            "model": "X93F",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688148920,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "LHL1YY0DU492",
+            "id": 3666,
+            "model": "I1IL",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689306779,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "3EU277Y8I41A",
+            "id": 9961,
+            "model": "11P6",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688157631,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "GQUBJVVFSEUM",
+            "id": 7787,
+            "model": "3932",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688296543,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "HSHH00XM4XSZ",
+            "id": 1403,
+            "model": "N5U6",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688833063,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "U8HCCVS1EV5G",
+            "id": 1028,
+            "model": "0HTN",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688035648,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "6E5R3V6GPO0D",
+            "id": 1043,
+            "model": "VONP",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1689552779,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "547P148UB6QX",
+            "id": 8989,
+            "model": "4QSP",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688433249,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "T2RPO1FADXOZ",
+            "id": 6267,
+            "model": "TB6R",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689078604,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "DC7ARY2ZYXZ1",
+            "id": 8703,
+            "model": "HFJV",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1689602702,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "5C5L9HQEET9O",
+            "id": 1531,
+            "model": "Q142",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688316473,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "AXKJ6IVO5Z8E",
+            "id": 7272,
+            "model": "0UZB",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689347450,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "5B7TU3NGNPZ6",
+            "id": 6048,
+            "model": "DIGQ",
+            "security": {
+                "firewall": false,
+                "antivirus": false,
+                "encryption": false
+            },
+            "lastCheckInDate": 1689525600,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "QD10BVBMIJZQ",
+            "id": 1042,
+            "model": "664P",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689695524,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "37QIS144NDXP",
+            "id": 3167,
+            "model": "YDBD",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688740479,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "JCKMHB6HDNT3",
+            "id": 5069,
+            "model": "JRPZ",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1689566225,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "S34HXF2YRABG",
+            "id": 7888,
+            "model": "DGKT",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688633830,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "D2VA057B21JS",
+            "id": 9078,
+            "model": "ZRFF",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689582973,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "LIORU2T610C6",
+            "id": 6320,
+            "model": "TRD3",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689306924,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "668AY8M6CU56",
+            "id": 8792,
+            "model": "JE6V",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689661911,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "K5H4OELHDXSR",
+            "id": 8175,
+            "model": "ZLD8",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689016391,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "TVS154BE2PVX",
+            "id": 7868,
+            "model": "R4UR",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689356298,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "5Y75AQA3HS60",
+            "id": 9543,
+            "model": "0KSZ",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688402889,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "BXF7X07P8NBS",
+            "id": 5219,
+            "model": "PSKU",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688840855,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "9PZL24C2G8MP",
+            "id": 8429,
+            "model": "QIMV",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688249305,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "81L0QLZRUHJ1",
+            "id": 3461,
+            "model": "OQL4",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689258562,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "LC41A9NRRN0K",
+            "id": 3900,
+            "model": "VPYV",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689407492,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "6C0TPGL1MJTT",
+            "id": 9380,
+            "model": "5HRI",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688241114,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "M2IVTBNUZX2T",
+            "id": 9611,
+            "model": "S968",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688658588,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "KT0889MIA3C1",
+            "id": 5403,
+            "model": "2BAV",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688546519,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "PM3QRKJ5U9G0",
+            "id": 8122,
+            "model": "HHM8",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689560895,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "6AQJM2NVC90O",
+            "id": 1374,
+            "model": "TXAK",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688616536,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "KB8484U6FM6D",
+            "id": 9112,
+            "model": "8ORC",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688317851,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "U4BGS50U0B6A",
+            "id": 1927,
+            "model": "UFNK",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688850071,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "QROX92XQZO35",
+            "id": 1167,
+            "model": "FZHP",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": false
+            },
+            "lastCheckInDate": 1689119548,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "OMFBV7IB1T2Y",
+            "id": 9855,
+            "model": "XC1E",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688507976,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "0LGTJDQIIJ6G",
+            "id": 7881,
+            "model": "GIEE",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689338216,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "AKH5DNZ62BZL",
+            "id": 3870,
+            "model": "JUX4",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689179643,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "990Y3INPCOON",
+            "id": 7441,
+            "model": "VFXM",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688353329,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "1U1K657UGS56",
+            "id": 4583,
+            "model": "JCUE",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689618955,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "HCTDV7777EQM",
+            "id": 9881,
+            "model": "CBVS",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689102340,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "YXF3S0UOM59I",
+            "id": 8438,
+            "model": "BSOY",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689251351,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "1UXIXT30AVLJ",
+            "id": 3403,
+            "model": "2MC6",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688511947,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "X0NG8CMTNQST",
+            "id": 3256,
+            "model": "ZEC6",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689702054,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "I01CIHM8JRY7",
+            "id": 7228,
+            "model": "TF59",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689610199,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "ZS3PBXIFZFBQ",
+            "id": 7148,
+            "model": "CVAB",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688024349,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "PXHCAREYQVOI",
+            "id": 9965,
+            "model": "A9EZ",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689264647,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "MQKQQH2L5EEG",
+            "id": 5330,
+            "model": "8VRA",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": false
+            },
+            "lastCheckInDate": 1687893217,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "IJPZCLZZ3LR4",
+            "id": 6181,
+            "model": "96E7",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1689155072,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "2XBLNQ1GOPEG",
+            "id": 3219,
+            "model": "2MYT",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689019587,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "NFKN43ML2951",
+            "id": 8203,
+            "model": "TBT7",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688165848,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "LACSQTIV38N8",
+            "id": 5703,
+            "model": "VQLN",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1687999547,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "CSRQE9NP1XS5",
+            "id": 7966,
+            "model": "30G5",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688759591,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "KS7EFFENPQAX",
+            "id": 3496,
+            "model": "2CDC",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1687916603,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "1AJ6Q80I1M81",
+            "id": 1858,
+            "model": "14CK",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689247994,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "JMD97PQEZFHK",
+            "id": 4124,
+            "model": "IPVG",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688913961,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "A5TVGC8FV30S",
+            "id": 3222,
+            "model": "VD2Q",
+            "security": {
+                "firewall": false,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689120263,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "BXUFDYEP4O2S",
+            "id": 9775,
+            "model": "UYZ6",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688199472,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "2QBJ75PRUIEZ",
+            "id": 2291,
+            "model": "S49U",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689393683,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "PZBSG43NRNA5",
+            "id": 1695,
+            "model": "KZOR",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689352410,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "LR2CKVBSMVI0",
+            "id": 9384,
+            "model": "U53U",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688668485,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "TN3O5T234H4X",
+            "id": 2282,
+            "model": "8THY",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689130405,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "X5MB1XKN52B2",
+            "id": 9742,
+            "model": "H2O8",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688517095,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "Z2Y7IGU1NSUI",
+            "id": 5707,
+            "model": "EFK7",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688523385,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "F9Q7HMIJNIQE",
+            "id": 8017,
+            "model": "RDNL",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689656923,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "6X6EEEVQQ1MK",
+            "id": 7002,
+            "model": "H843",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688032992,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "MEQHND26V6OY",
+            "id": 3696,
+            "model": "U41G",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688620429,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "3GAZJPD1YZZ4",
+            "id": 5748,
+            "model": "CXZ2",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1689092648,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "DARXUR00XTAB",
+            "id": 5475,
+            "model": "2GBJ",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688728304,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "SM1ITNA0TQOA",
+            "id": 7058,
+            "model": "BBQS",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688544147,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "63PUCFBNGJ9Y",
+            "id": 1314,
+            "model": "11ZE",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689508542,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "BA80ST0U7A3M",
+            "id": 4888,
+            "model": "NCL9",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689577708,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "QZQG3T4AA4UR",
+            "id": 7739,
+            "model": "97ZK",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688786053,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "BSG0Z92UAT6C",
+            "id": 1768,
+            "model": "9JVT",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689549969,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "UA2HZ676OLQL",
+            "id": 4683,
+            "model": "C1GC",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688878031,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "XEIIBP1S842N",
+            "id": 5105,
+            "model": "Y59D",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689532102,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "5CAYRMX5R419",
+            "id": 1187,
+            "model": "AM99",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689505079,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "NT9VS73UXK3B",
+            "id": 2347,
+            "model": "ZS50",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688819817,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "GJQL8H9E4XLT",
+            "id": 4232,
+            "model": "Q3HL",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689685293,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "U5H82DLCL3K5",
+            "id": 4429,
+            "model": "4KXN",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688367370,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "ZP2OJGU0Q4QN",
+            "id": 1427,
+            "model": "JA58",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688919878,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "35VPJS4P5IBC",
+            "id": 7789,
+            "model": "0LSR",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688378456,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "ATUE50BEVTE6",
+            "id": 7880,
+            "model": "KJVH",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689383893,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "3ETA80USCZEA",
+            "id": 6544,
+            "model": "BP0X",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688988406,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "QXIBJA6QS6V1",
+            "id": 4508,
+            "model": "T1QR",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688633132,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "THZMY03HVING",
+            "id": 4669,
+            "model": "634G",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688439697,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "8RNSKTUGQ0UK",
+            "id": 2678,
+            "model": "4B2S",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688757306,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "AG8ARFRG7F1M",
+            "id": 8068,
+            "model": "P7MR",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688466099,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "1QEFQZ8I9XBT",
+            "id": 3853,
+            "model": "KY44",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689475940,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "YHI5N5BHATFY",
+            "id": 5046,
+            "model": "P7YU",
+            "security": {
+                "firewall": true,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688354097,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "8EB2UE2B4I85",
+            "id": 9834,
+            "model": "EFTL",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1688248692,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "S5IA1EDF816C",
+            "id": 6251,
+            "model": "0SRF",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": false
+            },
+            "lastCheckInDate": 1689366376,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "9BMB81FU12G9",
+            "id": 8806,
+            "model": "6JEL",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689448220,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "749P9TYQ7JPQ",
+            "id": 1415,
+            "model": "L0BR",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688808330,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "ZRF20UBP758Z",
+            "id": 6046,
+            "model": "JE1H",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689230273,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "VKZ6O9ITBO99",
+            "id": 8347,
+            "model": "BFM8",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689569353,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "KXR54FA7NUIY",
+            "id": 2768,
+            "model": "M6H0",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688755036,
+            "clientId": "Sofia"
+        },
+        {
+            "serialNumber": "0VYU9NVQYT3F",
+            "id": 1942,
+            "model": "RUBC",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688615493,
+            "clientId": "Andrew"
+        },
+        {
+            "serialNumber": "NNKBZO795SUF",
+            "id": 3501,
+            "model": "SZ1X",
+            "security": {
+                "firewall": false,
+                "antivirus": false,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689121055,
+            "clientId": "Steve"
+        },
+        {
+            "serialNumber": "21C2XULLKSH9",
+            "id": 8741,
+            "model": "QX9T",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1688724263,
+            "clientId": "Melany"
+        },
+        {
+            "serialNumber": "19FY9UIZVC3J",
+            "id": 4077,
+            "model": "ZZ66",
+            "security": {
+                "firewall": true,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689638422,
+            "clientId": "Kevin"
+        },
+        {
+            "serialNumber": "S7RDAL0MPANT",
+            "id": 1923,
+            "model": "CZYR",
+            "security": {
+                "firewall": false,
+                "antivirus": true,
+                "encryption": true
+            },
+            "lastCheckInDate": 1689429383,
+            "clientId": "Andrew"
+        }
+    ]
 }
