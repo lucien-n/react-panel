@@ -22,7 +22,12 @@ export default function Panel() {
   const filter = (devices: TDevice[]) => {
     const filteredDevices = devices.filter((device) => {
       if (!healthyFilter && !silentFilter && !notSecuredFilter) return true;
-      if (healthyFilter && isHealthy(device.security)) return true;
+      if (
+        healthyFilter &&
+        isHealthy(device.security) &&
+        !isSilent(device.lastCheckInDate)
+      )
+        return true;
       if (silentFilter && isSilent(device.lastCheckInDate)) return true;
       if (
         notSecuredFilter &&
